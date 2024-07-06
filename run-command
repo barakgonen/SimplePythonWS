@@ -1,0 +1,1 @@
+docker run -e WS_SERVER_URL=localhost -e WS_SERVER_PORT=15005 -e SEND_INTERVAL=5 -e MESSAGE_PAYLOAD_SIZE=1024 websocket-client-py
